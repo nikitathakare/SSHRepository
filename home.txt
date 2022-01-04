@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Line 1 : Added from local repo
+=======
+>>>>>>> 91cdb4d (local : Retained change home.txt line1)
 
