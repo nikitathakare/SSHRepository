@@ -1,1 +1,2 @@
-line is added from remote 
+Line 1 : Added from local repo
+
